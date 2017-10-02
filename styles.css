@@ -1,0 +1,57 @@
+body{
+	background-color: lavender;
+	position: relative;
+}
+
+#pic{
+	position: absolute;
+	left:1390px;
+	-webkit-transform: rotate(-7deg);
+
+	
+}
+
+#name{
+	padding-bottom: -20px;
+	border-bottom: solid black;
+}
+
+.info2{
+	font-style: italic;  ;
+}
+
+#qual{
+	float:left;
+}
+
+.experience{
+	font-weight:bold;
+	font-style: italic;
+	border-right: 0.25px solid black;
+	margin-left: 50px;
+	margin-bottom:10px;
+	padding-right: 5px;
+}
+
+.Education{
+	font-weight:bold;
+	font-style: italic;
+	border-right: 0.25px solid black;	
+	margin-left: 50px;
+	margin-bottom:20px;
+}
+
+.skills{
+	font-weight:bold;
+	font-style: italic;
+	border-right: 0.25px solid black;
+	margin-left: 50px;
+	margin-bottom:17px;
+	padding-left: 30px;
+
+}
+
+.mar{
+	margin-left: 150px;
+}
+
